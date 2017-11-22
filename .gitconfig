@@ -1,0 +1,5 @@
+[columnlimit]
+  enabled = true
+  size    = 78
+[whitespace]
+  enabled = true

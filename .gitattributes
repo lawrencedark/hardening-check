@@ -1,0 +1,4 @@
+.git*    text      export-ignore
+##
+*        text=auto whitespace=trailing-space,space-before-tab,tab-in-indent,tabwidth=2
+Makefile text      whitespace=-tab-in-indent,tabwidth=8
